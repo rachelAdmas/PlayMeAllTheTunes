@@ -16,7 +16,7 @@ export default class App extends React.Component {
             Alert.alert('ITS BLUTOOF!');
           }}
           title="Blutoof">
-              <Text style={styles.label}> Bluetoof </Text>
+              <Text style={styles.label}> Blutoof </Text>
         </TouchableOpacity>
        
         <TouchableOpacity
