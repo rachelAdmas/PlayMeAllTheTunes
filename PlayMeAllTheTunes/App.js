@@ -13,7 +13,7 @@ export default class App extends React.Component {
         <TouchableOpacity 
           style={styles.button}
           onPress={() => {
-            Alert.alert('ITS Bluetooth!');//Spelled wrong
+            Alert.alert('ITS BLUTOOF!');//Spelled cool
           }}
           title="Blutoof">
               <Text style={styles.label}> Blutoof </Text>
